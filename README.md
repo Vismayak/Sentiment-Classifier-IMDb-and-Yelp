@@ -11,7 +11,7 @@ pip3 install pandas
 
 ```
 
-# Models Used and Statistics
+## Models Used and Statistics
 
 Bag-Of-Words
 
@@ -20,7 +20,7 @@ Precision is 68.4375
 Recall is 73.0
 
 
-Naive Bayes Classifier
+## Naive Bayes Classifier
 
 Accuracy is 70.83333333333334
 Precision is 71.33105802047781
