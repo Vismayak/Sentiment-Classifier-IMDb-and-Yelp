@@ -15,13 +15,13 @@ pip3 install pandas
 
 Bag-Of-Words
 
-Accuracy is 69.667
-Precision is 68.4375
-Recall is 73.0
+Accuracy is 69.667  
+Precision is 68.4375  
+Recall is 73.0  
 
 
 ## Naive Bayes Classifier
 
-Accuracy is 70.83333333333334
-Precision is 71.33105802047781
+Accuracy is 70.83333333333334  
+Precision is 71.33105802047781  
 Recall is 69.66666666666667
